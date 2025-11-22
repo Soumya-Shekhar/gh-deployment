@@ -1,0 +1,294 @@
+{
+  "id": "soumya_portfolio",
+  "name": "soumya_portfolio",
+  "metaData": {
+    "name": "soumya_portfolio",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.0.0",
+      "buildName": "@soumya-dev-nx-workspace/source"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.mjs",
+      "path": "",
+      "type": "module"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "soumya_portfolio",
+    "pluginVersion": "0.18.4",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "soumya_portfolio:@angular/animations/browser",
+      "name": "@angular/animations/browser",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "^20.3.4",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "700.493ed95a1ce002cf.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/common/http",
+      "name": "@angular/common/http",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "111.26caefca9f7b5dee.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/common",
+      "name": "@angular/common",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "705.158737e5e082f6ab.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/core/primitives/di",
+      "name": "@angular/core/primitives/di",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.8a3f59e64f494b42.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/core/primitives/signals",
+      "name": "@angular/core/primitives/signals",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.8a3f59e64f494b42.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/core",
+      "name": "@angular/core",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "295.dfabb00a2aa702f5.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/material/button",
+      "name": "@angular/material/button",
+      "version": "20.2.1",
+      "singleton": true,
+      "requiredVersion": "^20.2.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "170.b942c5da190540a3.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/material/icon",
+      "name": "@angular/material/icon",
+      "version": "20.2.1",
+      "singleton": true,
+      "requiredVersion": "^20.2.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "118.f425147ea8409316.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/material/slide-toggle",
+      "name": "@angular/material/slide-toggle",
+      "version": "20.2.1",
+      "singleton": true,
+      "requiredVersion": "^20.2.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "4.b15e7094d3313d08.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/material/toolbar",
+      "name": "@angular/material/toolbar",
+      "version": "20.2.1",
+      "singleton": true,
+      "requiredVersion": "^20.2.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.8a3f59e64f494b42.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/platform-browser/animations",
+      "name": "@angular/platform-browser/animations",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.8a3f59e64f494b42.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/platform-browser",
+      "name": "@angular/platform-browser",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "345.4d16c2795f0ff105.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "soumya_portfolio:@angular/router",
+      "name": "@angular/router",
+      "version": "20.3.4",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "361.4f9c33b007be8f05.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "soumya_portfolio:Routes",
+      "name": "Routes",
+      "assets": {
+        "js": {
+          "sync": [],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./Routes"
+    }
+  ]
+}
